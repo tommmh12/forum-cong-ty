@@ -38,7 +38,7 @@ coverage
 
 # TypeScript
 *.tsbuildinfo
-
+.kiro
 # Monorepo specific
 client/dist
 server/dist
