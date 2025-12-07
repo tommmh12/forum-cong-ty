@@ -102,3 +102,4 @@ WHERE TABLE_SCHEMA = DATABASE()
 AND TABLE_NAME = 'users'
 AND COLUMN_NAME = 'karma_points';
 
+
